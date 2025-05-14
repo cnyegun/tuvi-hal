@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tu Vi</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tu Vi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Hal, all right reserved</copyright>
+    <lastBuildDate>Wed, 14 May 2025 09:56:43 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các thuật ngữ trong tử vi</title>
+      <link>//localhost:1313/posts/post2/</link>
+      <pubDate>Wed, 14 May 2025 09:56:43 +0300</pubDate>
+      <guid>//localhost:1313/posts/post2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Các thuật ngữ Trung Châu Tam Hợp Phái:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Bản cung (cung gốc) tức cung chủ về việc đang xem. Như xem tiền tài là cung Tài bạch, cung tài bạch tức là bản cung.&lt;/li&gt;&#xA;&lt;li&gt;Bình nhàn: sao ở vào cung thuộc loại trung tính.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Lưu niên vận tình duyên</title>
+      <link>//localhost:1313/posts/post1/</link>
+      <pubDate>Wed, 14 May 2025 09:45:15 +0300</pubDate>
+      <guid>//localhost:1313/posts/post1/</guid>
+      <description>&lt;p&gt;【飞星漫谈二十六】流年恋爱运&lt;/p&gt;&#xA;&lt;p&gt;二十六【流年、大限疾厄宫、夫妻宫之禄忌】看恋爱运&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
