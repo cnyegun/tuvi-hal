@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/post2/</loc>
+    <loc>tuvi.xyz/posts/post2/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/kien-thuc/</loc>
+    <loc>tuvi.xyz/tags/kien-thuc/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>tuvi.xyz/posts/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>tuvi.xyz/tags/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>tuvi.xyz/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/tags/tu-vi/</loc>
+    <loc>tuvi.xyz/tags/tu-vi/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/posts/post1/</loc>
+    <loc>tuvi.xyz/posts/post1/</loc>
     <lastmod>2025-05-14T09:45:15+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>tuvi.xyz/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
