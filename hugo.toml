@@ -1,5 +1,4 @@
 baseURL = "https://cnyegun.github.io/tuvi-hal/"
-canonifyURLs = true
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
 title = "Tu Vi"

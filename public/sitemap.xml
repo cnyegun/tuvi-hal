@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cnyegun.github.io/tuvi-hal/posts/post2/</loc>
+    <loc>http://localhost:1313/tuvi-hal/posts/post2/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/tags/kien-thuc/</loc>
+    <loc>http://localhost:1313/tuvi-hal/tags/kien-thuc/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/posts/</loc>
+    <loc>http://localhost:1313/tuvi-hal/posts/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/tags/</loc>
+    <loc>http://localhost:1313/tuvi-hal/tags/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/</loc>
+    <loc>http://localhost:1313/tuvi-hal/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/tags/tu-vi/</loc>
+    <loc>http://localhost:1313/tuvi-hal/tags/tu-vi/</loc>
     <lastmod>2025-05-14T09:56:43+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/posts/post1/</loc>
+    <loc>http://localhost:1313/tuvi-hal/posts/post1/</loc>
     <lastmod>2025-05-14T09:45:15+03:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://cnyegun.github.io/tuvi-hal/categories/</loc>
+    <loc>http://localhost:1313/tuvi-hal/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
